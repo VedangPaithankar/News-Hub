@@ -15,5 +15,13 @@ NewsHub is a dynamic and intuitive web application that serves as your central h
 - HTML5 and CSS3
 - Tailwind CSS
 
+### Features
+- Personalized News Feed
+- Real-time Updates
+- Comprehensive Coverage
+- Search and Explore
+- User Interaction
+- Aesthetic Design
+
 ### API Used
-![News API](https://newsapi.org)
+[News API](https://newsapi.org)
