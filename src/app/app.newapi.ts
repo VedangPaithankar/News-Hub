@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from 'axios';
 
 // Access the API key from the environment variables
-const apiKey = 'e07d2981671c4e31a00da8cbc5a12e75';
+const apiKey = 'APIKEY';
 const apiUrl = 'https://newsapi.org/v2/everything';
 
 interface NewsArticle {
