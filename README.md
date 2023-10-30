@@ -3,7 +3,7 @@
 Your Central Hub for Real-time News Updates. 
 Fun project to explore more about angular & implementing API endpoints.
 
-![NewsHub Screenshot](screenshot.png)
+![NewsHub Screenshot](Screenshot.png)
 
 ## Project Overview
 
